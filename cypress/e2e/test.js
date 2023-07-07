@@ -15,8 +15,3 @@ describe("Substring Strings ", () => {
     });
   });
 });
-
-// cy.log("substring  is :" + substring);
-
-// }
-// });
